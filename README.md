@@ -11,7 +11,7 @@ API RUN
 
 ın order to run the api
 In order to run the script, execute the following commands under the directory of the script on the terminal:
-`set FLASK_APP=task-2.py`
+`set FLASK_APP=task2.py`
 `flask run`
 
 go to a browser and type following url in order to see data that has been scraped
